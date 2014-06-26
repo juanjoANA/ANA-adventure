@@ -6,7 +6,7 @@ Los objetivos que se persiguen son:
 
 De acuerdo a la charla con Magda se busca inicialmente:
 
-1. Desarrollar de una aplicación móvil que cotice productos de seguros ofrecidos en el mercado utilizando el webservice de ANA Seguros.
+1. Desarrollar de una aplicación móvil que cotice productos de seguros ofrecidos en el mercado utilizando el webservice de ANA Seguros. Esta primer aplicación se construirá para Iphone 5S.
 2. Implementar una estrategia de desarrollo móvil que permita la penetración del seguro de auto a asegurados potenciales, la consolidacion de fidelidad a asegurados actuales y una herramienta de servicio a agentes de seguros
 3. La estrategia permitirá la masificación de la herramienta a los frameworks de smarphones y tablets de mayor penetración en el mercado.
 
